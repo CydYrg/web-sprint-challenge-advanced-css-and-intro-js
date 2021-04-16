@@ -206,6 +206,7 @@ export const artists = [
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 Practice accessing data above by console.log-ing following items:
 (no functions needed) */
+/* SPRINT CHALLANGE*/
 
 //(1) Name of the first artist (0th index) in the array
 
