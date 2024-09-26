@@ -23,9 +23,29 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+The Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them.
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+ 1- Make Sure Your Site Is Keyboard-Friendly
+This step is also the most important. Put simply: for a website to be accessible, it must work without the use of a mouse. This is because many assistive technologies rely on keyboard-only navigation. As such, it must be possible to use all of your site’s major features via a keyboard and nothing else. This includes accessing all pages, links, content, and so on.
+The most common way of navigating using a keyboard is with the Tab key. This will jump between areas on a page that can have “keyboard focus,” which includes links, buttons, and forms. Therefore, your goal should be to ensure that all web content and navigation can be accessed using Tab.
+
+2- Make Sure All Content Is Easily Accessible
+In addition to making your site keyboard-friendly, you also need to ensure that all content on the page is actually accessible. While this is usually not a problem, it can be an issue when a page contains dynamic content.
+In short, content is dynamic if it can change without the page it’s on reloading. This can become a problem if the site doesn’t inform assistive tools of the change. For example, many screen readers will only “read” the site as it appears when it first loads. As such, you need to make it aware when something shifts, or the user will miss the new content.
+
+3- Choose Your Colors Carefully
+We often talk about color blindness as if it’s a, no pun intended, black-and-white issue. However, it’s more of a spectrum since different people perceive colors in unique ways (remember The Dress)? As such, you need to make sure the colors you select on your site contrast well to ensure that everyone can distinguish between various elements on the page.
+
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information.
+
 4. What is the purpose of using functions in code?
+
+A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide better modularity for your application and a high degree of code reusing.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
